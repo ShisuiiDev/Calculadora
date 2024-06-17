@@ -6,12 +6,12 @@ a:link
 }
 a:visited
 {
-  color: hotpink;
+  color: green;
   text-decoration: none;
 }
 a:hover
 {
-color: magenta;
+color: red;
   text-decoration: none;
   
 }
