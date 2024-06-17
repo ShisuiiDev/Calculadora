@@ -11,8 +11,15 @@ a:visited
 }
 a:hover
 {
-color: 
+color: magenta;
+  text-decoration: none;
   
 }
+a:active
+{
+  color: cyan;
+  text-decoration: none;
+}
+
 
 
